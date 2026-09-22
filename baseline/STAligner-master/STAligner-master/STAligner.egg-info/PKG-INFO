@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: STAligner
+Version: 1.0.0
+Summary: Integrating spatial transcriptomics data across different conditions, technologies, and developmental stages
+Home-page: https://github.com/zhoux85/STAligner
+Author: Xiang Zhou
+Author-email: xzhou@amss.ac.cn
+License: MIT
+License-File: LICENSE
+Requires-Dist: requests

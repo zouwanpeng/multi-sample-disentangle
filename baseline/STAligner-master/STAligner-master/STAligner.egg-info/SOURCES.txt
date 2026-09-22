@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+STAligner/STALIGNER.py
+STAligner/ST_utils.py
+STAligner/__init__.py
+STAligner/gat_conv.py
+STAligner/mnn_utils.py
+STAligner/train_STAligner.py
+STAligner.egg-info/PKG-INFO
+STAligner.egg-info/SOURCES.txt
+STAligner.egg-info/dependency_links.txt
+STAligner.egg-info/not-zip-safe
+STAligner.egg-info/requires.txt
+STAligner.egg-info/top_level.txt
